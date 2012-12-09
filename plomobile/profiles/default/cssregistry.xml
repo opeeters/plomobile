@@ -14,7 +14,7 @@
 
    <stylesheet
       id="++resource++plomobile/mobile.css"
-      media="screen and (max-width: 900px)" rel="stylesheet" rendering="import"
+      media="screen and (max-width: 400px)" rel="stylesheet" rendering="import"
       cacheable="True" compression="safe" cookable="True"
       enabled="1" expression="" insert-before="ploneCustom.css"/>
 
